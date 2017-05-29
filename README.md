@@ -1,4 +1,4 @@
-# Swift 101 - Typealias
+# Swift 101 - typealias
 The supplementary Swift Playground to [Swift 101 - typealias](https://medium.com/pretty-swifty/swift-101-typealias-9d6a794bc59f
 ).
 
